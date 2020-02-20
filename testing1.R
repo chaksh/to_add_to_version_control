@@ -1,3 +1,3 @@
-print ("This was a normal R project")
+print ("This was an existing R project")
 
 print ("Now linked to GitHub")
