@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582224465049.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1124717992",
+    "id" : "74536B38",
+    "lastKnownWriteTime" : 1582224547,
+    "last_content_update" : 1582224547177,
+    "path" : "~/R/to_add_to_version_control/testing1.R",
+    "project_path" : "testing1.R",
+    "properties" : {
+        "cursorPosition" : "2,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
